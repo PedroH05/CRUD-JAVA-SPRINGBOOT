@@ -29,7 +29,7 @@ A API deve incluir endpoints para:
 Autor
 
 Pedro Henrique
-📍 São Paulo, Brasil
+
 🔗 https://github.com/PedroH05
 
 🔗 https://www.linkedin.com/in/pedro-henrique-carvalho-a1345a2b7
